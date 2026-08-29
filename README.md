@@ -1,10 +1,6 @@
 # cache_poison_scan.py
 
-Herramienta de dos fases para detectar y probar **Web Cache Poisoning** en bug bounty, basada en la metodología de:
-
-- ["Cache Poisoning at Scale"](https://youst.in/posts/cache-poisoning-at-scale/) — youst.in
-- ["Practical Web Cache Poisoning"](https://portswigger.net/research/practical-web-cache-poisoning) — albinowax
-- [Param Miner](https://github.com/PortSwigger/param-miner)
+Herramienta de dos fases para detectar y probar **Web Cache Poisoning** en bug bount
 
 ## ⚠️ Uso responsable
 
